@@ -1,0 +1,1 @@
+![Texto en caso de que falle imagen](.\images\imagen.png.webp)
